@@ -1,3 +1,3 @@
 # @clevercanyon/utilities.php
 
-Another great project by Clever Canyon.
+Utilities for apps running in a PHP environment.

@@ -3,10 +3,10 @@
 	"publishConfig": {
 		"access": "restricted"
 	},
-	"version": "1.0.32",
+	"version": "1.0.33",
 	"license": "GPL-3.0-or-later",
 	"name": "@clevercanyon/utilities.php",
-	"description": "Another great project by Clever Canyon.",
+	"description": "Utilities for apps running in a PHP environment.",
 	"repository": "https://github.com/clevercanyon/utilities.php",
 	"homepage": "https://github.com/clevercanyon/utilities.php#readme",
 	"bugs": "https://github.com/clevercanyon/utilities.php/issues",
