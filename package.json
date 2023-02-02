@@ -3,7 +3,7 @@
 	"publishConfig": {
 		"access": "restricted"
 	},
-	"version": "1.0.38",
+	"version": "1.0.39",
 	"license": "GPL-3.0-or-later",
 	"name": "@clevercanyon/utilities.php",
 	"description": "Utilities for apps running in a PHP environment.",
@@ -45,7 +45,7 @@
 	"optionalDependencies": {},
 	"bundleDependencies": [],
 	"devDependencies": {
-		"@clevercanyon/skeleton-dev-deps": "^1.0.114"
+		"@clevercanyon/skeleton-dev-deps": "^1.0.115"
 	},
 	"overrides": {},
 	"workspaces": [],
