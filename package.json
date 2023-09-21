@@ -3,7 +3,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "version": "1.0.73",
+    "version": "1.0.74",
     "license": "GPL-3.0-or-later",
     "name": "@clevercanyon/utilities.php",
     "description": "Utilities for apps running in a PHP environment.",
@@ -40,7 +40,7 @@
     },
     "dependencies": {},
     "peerDependencies": {
-        "@clevercanyon/utilities": "^1.0.262",
+        "@clevercanyon/utilities": "^1.0.263",
         "@clevercanyon/utilities.node": "^1.0.103"
     },
     "peerDependenciesMeta": {},
